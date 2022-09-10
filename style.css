@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    font-family: "Montserrat", sans-serif;
+}
+
+section {
+    margin: 0;
+    background-color: #2b2922;
+    height: 45vh;
+}
+
+.logo {
+    display: block;
+    margin-left: 7rem;
+    padding-top: 3rem;
+}
+
+.logo img {
+    height: 50px;
+}
+
+nav a {
+    color: gray;
+    text-decoration: none;
+}
+
+.nav-con {
+    position: absolute;
+    top: 4.5rem;
+    margin-left: 39rem;
+}
+
+.nav-list {
+    margin-left: 3rem;
+}
+
+.nav-list:nth-child(1) {
+    color: white;
+}
+
+.btn {
+    float: right;
+    position: absolute;
+    top: 4rem;
+    right: 5rem;
+    background-color: transparent;
+    border: 1px solid #a08f36;
+    color: #a08f36;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.title {
+    color: aliceblue;
+    position: absolute;
+    top: 11rem;
+    left: 7rem;
+    font-size: 3.5rem;
+    line-height: 4rem;
+}
+
+.paragraph {
+    color: aliceblue;
+    line-height: 1.5rem;
+    position: absolute;
+    top: 13rem;
+    right: 6rem;
+}
+
+.body {
+    width: 1440px;
+    height: 650px;
+    overflow: hidden;
+}
+
+
+.body img {
+    width: 1700px;
+    height: 800px;
+}
+
+footer {
+    height: 15vh;
+    background-color: #2b2922;
+}
+
+.btn1 {
+    position: absolute;
+    bottom: -18.5rem;
+    right: 7rem;
+    border-radius: 6rem;
+    background-color: transparent;
+    color: #a08f36;
+    padding: 15px 25px;
+    border: 1px solid #a08f36;
+    font-size: 32px;
+}
+
+.btn2 {
+    position: absolute;
+    bottom: -18.5rem;
+    right: 0.5rem;
+    border-radius: 6rem;
+    background-color: transparent;
+    color: #ffff;
+    padding: 15px 25px;
+    border: 1px solid #ffff;
+    font-size: 32px;
+}
+
+.btns {
+    margin-left: 4rem;
+    float: right;
+    height: 120px;
+    width: 100px;
+    background-color: #a08f36;
+}
+
+.btns2 {
+    position: absolute;
+    right: 6.2rem;
+    height: 120px;
+    width: 100px;
+    background-color: #4b483b81;
+
+}
