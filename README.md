@@ -5,7 +5,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 11 [Live Link](https://live-pro-11.netlify.app/)
+## Assignment 03 [Live Link](https://live-project-03.netlify.app/)
 
 - ## Skills Gained during this assignment
   - Made use of positions.
